@@ -1,0 +1,78 @@
+*{
+    background-color: black;
+     margin: 0;
+     width: 600px;
+    }
+    #MB{
+        width:1000px;
+        height: 100px;
+        position: relative;
+    }
+    
+    header{
+    
+    padding-bottom: 30px;
+        font-size: larger;
+        font-weight: bolder;
+        letter-spacing: 2px;
+        font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+        background-color: black;
+        padding: 15px;
+    
+        width: 1517px;
+        height: 20px;
+        border: 2px solid black;
+        color: white;
+    }
+    img{
+        width: 1600px;
+    }
+    h3{
+    
+        font-size: larger;
+        padding-left: 45px;
+        position: relative;
+        bottom: 5px;
+        
+    }
+    a{
+        margin-bottom: 50px;
+        border: 2px solid white;
+        border-radius: 10px;
+        color: violet;
+        margin-left: 15px;
+       padding: 7px;
+        text-decoration: solid;
+    }
+    nav{
+    
+        
+        font-size: small;
+        position: relative;
+        left: 65%;
+        bottom: 140%;
+        
+    }
+    
+    h2{
+      
+        letter-spacing: 20px;
+        position: absolute;
+        color: whitesmoke;
+        left: 50px;
+        top: 200px;
+           background-color: rgba(255, 0, 0, 0);
+    
+    
+        padding: 0.5rem;
+        text-align: center;
+        font-size: 40px;
+        
+    
+    
+    }
+
+
+
+
+
